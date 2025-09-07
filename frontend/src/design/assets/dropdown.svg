@@ -1,0 +1,19 @@
+<svg width="153" height="49" viewBox="0 0 153 49" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_48_522)">
+<rect x="-0.5" y="1.5" width="152" height="87" rx="2.5" fill="#3E2221" stroke="black" stroke-width="3"/>
+<line x1="2.5708" y1="8" x2="150.571" y2="8" stroke="#3E2221" stroke-width="2"/>
+<line x1="2.5708" y1="14" x2="150.571" y2="14" stroke="#3E2221" stroke-width="2"/>
+<line x1="2.5708" y1="20" x2="150.571" y2="20" stroke="#3E2221" stroke-width="2"/>
+<line x1="2.5708" y1="32" x2="150.571" y2="32" stroke="#3E2221" stroke-width="2"/>
+<line x1="2.5708" y1="38" x2="150.571" y2="38" stroke="#3E2221" stroke-width="2"/>
+<line x1="2.5708" y1="44" x2="150.571" y2="44" stroke="#3E2221" stroke-width="2"/>
+<line x1="1.04907e-06" y1="2" x2="151" y2="2.00001" stroke="black" stroke-width="24"/>
+<line x1="2.5708" y1="6.5" x2="150.571" y2="6.5" stroke="#3E2221" stroke-width="7"/>
+</g>
+<rect x="0.5" y="0.5" width="152" height="48" rx="3.5" stroke="#0C0C0C"/>
+<defs>
+<clipPath id="clip0_48_522">
+<rect width="153" height="49" rx="4" fill="white"/>
+</clipPath>
+</defs>
+</svg>
